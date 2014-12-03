@@ -8,7 +8,7 @@ Las partituras se encuentran en XMLMusic, de forma que pueden abrirse con cualqu
 - [Encore](http://www.passportmusic.com/products/encore/)
 - [MuseScore](http://musescore.com)
 
-Se recomienda el último, ya que dispone de licencia GNU GPLv2 (por lo que es libre) y además es gratuito (fr forma legal).
+Se recomienda el último, ya que dispone de licencia GNU GPLv2 (por lo que es libre) y además es gratuito (de forma legal).
 [También dispone de aplicación para teléfono móvil o tablet](http://musescore.com/apps)
 
 ![MuseScore](musescore.png)
